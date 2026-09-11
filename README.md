@@ -166,7 +166,7 @@ This project demonstrates how **Power BI can convert supermarket sales data into
 
 ## 👨‍💻 Author
 
-**Supermarket Sales Dashboard | Power BI**
+**Sahil Meshram**
 
 ⭐ If you find this project useful, consider giving the repository a **star**!
 
